@@ -7,7 +7,7 @@ Chào mừng đến với ứng dụng **Minh Họa Thuật Toán Nén Dữ Li�
 ---
 *Dự án Bài tập lớn môn Lý thuyết thông tin.*       
 *Họ và Tên thành viên nhóm:*  
-**Nguyễn Việt Trường 20234042**
+**Nguyễn Việt Trường 20234042**     
 **Nguyễn Hoàng Anh 20233994**  
 **Vũ Hoàng Hiệp 20234005**  
 **Nguyễn Quốc Huy 20234013**
